@@ -1,3 +1,12 @@
+# Websites
+
+## Github User Finder
+
+Search for github usernames and view details about their public profiles. Built with ReactJS using the Github API and deployed to Netlify.
+
+[Github Finder](https://githubfinder-jjewel.netlify.com/)
+
+
 # Games
 
 ## Flop Fish
