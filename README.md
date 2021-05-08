@@ -4,6 +4,8 @@
 
 Local Brisbane Tanning Business
 
+![BronzeBarHeader](pub/static/bronze-bar.png)
+
 [Bronze Bar](https://bronze-bar.com.au/)
 
 
