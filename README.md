@@ -24,8 +24,6 @@ Flop your fish on the greatest adventure yet! Collect gems, avoid the sea, battl
 
 ![FlopFishScreen](pub/static/flopfish.png)
 
-[Download Here](https://play.google.com/store/apps/details?id=com.tannlark.flopfish)
-
 Developed by Tannlark Studios a company co-founded by myself and David Trafford.
 
 ## Deathbeast
