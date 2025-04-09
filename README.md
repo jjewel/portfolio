@@ -30,7 +30,7 @@ Deathbeast was the result of a 24 week project made by 5 people. My role on this
 
 ### Features
 - 13 levels
-- 3 actions to unlock
+- 3 special abilities to unlock
 - Humans to scare
 - Set down traps to capture them
 - 48 variations in decorative assets
